@@ -1,5 +1,5 @@
 Hi, I'm @Hernandexz
-- 👀 I'm interested in... learning programming
+- 👀 I'm interested in... learning web development
 - 🌱 I'm currently learning... node js
 - 💞️ I am looking to collaborate in... industrial makeup
 - 📫 How to reach me... Pedrohernandezdelarosa@outlook.es
